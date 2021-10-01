@@ -1,0 +1,129 @@
+[
+  {
+    "name": "GITC",
+    "address": "1 Gayi Street, Gyumri 3105",
+    "color": "black",
+    "number of floors": 3,
+    "lift": "true",
+    "floor 1":
+            [
+              {
+                "number of rooms": 3,
+                "room 1":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 5,
+                            "number of tables": 15,
+                            "number of computers": 15,
+                            "wall color":"yellow"
+                          }
+                        ],
+                "room 2":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 6,
+                            "number of tables": 18,
+                            "number of computers": 18,
+                            "wall color":"red"
+                          }
+                        ],
+                "room 3":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 4,
+                            "number of tables": 10,
+                            "number of computers": 10,
+                            "wall color":"black"
+                          }
+                        ]
+
+              }
+            ],
+    "floor 2":
+            [
+              {
+                "number of rooms": 4,
+                "room 1":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 4,
+                            "number of tables": 12,
+                            "number of computers": 12,
+                            "wall color":"yellow"
+                          }
+                        ],
+                "room 2":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 5,
+                            "number of tables": 15,
+                            "number of computers": 15,
+                            "wall color":"grey"
+                          }
+                        ],
+                "room 3":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 8,
+                            "number of tables": 16,
+                            "number of computers": 16,
+                            "wall color":"green"
+                          }
+                        ],
+                "room 4":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 7,
+                            "number of tables": 15,
+                            "number of computers": 15,
+                            "wall color":"grey"
+                          }
+                        ]
+              }
+            ],
+    "floor 3":
+            [
+              {
+                "number of rooms": 3,
+                "room 1":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 6,
+                            "number of tables": 17,
+                            "number of computers": 17,
+                            "wall color":"green"
+                          }
+                        ],
+                "room 2":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 7,
+                            "number of tables": 25,
+                            "number of computers": 25,
+                            "wall color":"red"
+                          }
+                        ],
+                "room 3":
+                        [
+                          {
+                            "door": 1,
+                            "number of windows": 4,
+                            "number of tables": 11,
+                            "number of computers": 11,
+                            "wall color":"black"
+                          }
+                        ]
+              }
+            ]
+
+  }
+]
